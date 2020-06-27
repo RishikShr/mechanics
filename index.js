@@ -25,3 +25,4 @@ if(e.target.classList.contains('modal')){
     original.classList.remove("open");
 }
 });
+

@@ -58,8 +58,8 @@ overflow: hidden;
     transform: translate(-50%,-50%) scale(1);
 }
 .modal p{
-    color: rgb(196, 236, 14);
-    font-size: 60px;
+    color: white;
+    font-size: 3rem;
     position: absolute;
     bottom: 5%;
     left: 50%;
